@@ -1,0 +1,17 @@
+{
+  "name": "ignite_quest_365",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishith P",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "natural": "^8.0.1",
+    "xlsx": "^0.18.5"
+  }
+}
